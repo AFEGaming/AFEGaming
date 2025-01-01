@@ -1,5 +1,5 @@
 # 💫 About Me:
-Selam ben ahmet, githubu seviyorum
+Selam ben ahmet
 
 
 ## 🌐 Socials:
