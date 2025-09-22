@@ -1,18 +1,24 @@
-# 💫 About Me:
-Selam ben ahmet
+<br>
+<h1 align="center">Hi 👋, I'm Ahmet</h1>
 
+<h4 align="center">Exploring electricity, electronics & software from Türkiye</h4>
+<br>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/mPFYBXqPKq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afe_.d) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCqmzyCCbtrEBreMah3d33SA) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AFE-1358) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@AFEGaming@mastodon.social) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AFEGaming&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AFEGaming&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AFEGaming&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🌱  Exploring **<span style="color:FFF176;font-weight:bold;">electricity</span>, <span style="color:FFB74D;font-weight:bold;">electronics</span>, and <span style="color:81D4FA;font-weight:bold;">software</span>**, passionate about <span style="color:lightgreen;font-weight:bold;">FOSS</span>, and learning something new every day.
+<br>
+- 💾 All of my projects are available at [https://github.com/AFEGaming](https://github.com/AFEGaming)
+<br>
+- 📝 I Sometimes write blog on [https://afeblog.github.io/](https://afeblog.github.io/)
+<br>
+- ⚡ Fun fact **I am not a 27MHz crystal oscillator** 😀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AFEGaming&icon=0&color=1)](https://visitcount.itsvg.in)
+<h3 align="left"> 🌐 Connect with me:</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[Contact me & social](https://afegaming.github.io/iletisim/)**
+
+<h3 align="left">GitHub Stats</h3>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AFEGaming&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=AFEGaming&show_icons=true&theme=tokyonight)
