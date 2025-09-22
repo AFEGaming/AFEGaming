@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 
 <h3 align="center">Exploring electricity, electronics & software from Türkiye</h3>
-<br>
 
 - 🌱  Exploring **electricity, electronics, and software**, passionate about **FOSS**, and learning something new every day.
   
