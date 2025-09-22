@@ -1,10 +1,9 @@
-<br>
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 
 <h4 align="center">Exploring electricity, electronics & software from Türkiye</h4>
 <br>
 
-- 🌱  Exploring **<span style="color:FFF176;font-weight:bold;">electricity</span>, <span style="color:FFB74D;font-weight:bold;">electronics</span>, and <span style="color:81D4FA;font-weight:bold;">software</span>**, passionate about <span style="color:lightgreen;font-weight:bold;">FOSS</span>, and learning something new every day.
+- 🌱  Exploring **electricity, electronics, and software**, passionate about **FOSS**, and learning something new every day.
 <br>
 - 💾 All of my projects are available at [https://github.com/AFEGaming](https://github.com/AFEGaming)
 <br>
