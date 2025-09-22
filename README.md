@@ -4,11 +4,11 @@
 <br>
 
 - 🌱  Exploring **electricity, electronics, and software**, passionate about **FOSS**, and learning something new every day.
-<br>
+  
 - 💾 All of my projects are available at [https://github.com/AFEGaming](https://github.com/AFEGaming)
-<br>
+  
 - 📝 I Sometimes write blog on [https://afeblog.github.io/](https://afeblog.github.io/)
-<br>
+
 - ⚡ Fun fact **I am not a 27MHz crystal oscillator** 😀
 
 ---
