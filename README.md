@@ -12,12 +12,12 @@
 - ⚡ Fun fact **I am not a 27MHz crystal oscillator** 😀
 
 ---
-<h3 align="left"> 🌐 Connect with me:</h3>
+<h3 align="center"> 🌐 Connect with me:</h3>
 
 **[Contact me & social](https://afegaming.github.io/iletisim/)**
 
 <h3 align="left">GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AFEGaming&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api?username=AFEGaming&show_icons=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=afegaming&style=for-the-badge)
