@@ -36,4 +36,6 @@ Exploring electricity, electronics & software from Türkiye
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Switchli Telefon Tasarımım &lpar;AFE Phone&rpar;](https://afeblog.github.io/2025/10/04/AFEPhone/)
+- [Build a Boat for Treasure’da Daire Yapma Rehberi](https://afeblog.github.io/2025/09/19/babft-daire.md/)
 <!-- BLOG-POST-LIST:END -->
