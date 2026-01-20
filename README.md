@@ -32,3 +32,8 @@ Exploring electricity, electronics & software from Türkiye
   <img src="https://komarev.com/ghpvc/?username=afegaming&style=for-the-badge"
        alt="Profile views" />
 </p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
