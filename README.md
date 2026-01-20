@@ -1,23 +1,34 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 
-<h3 align="center">Exploring electricity, electronics & software from Türkiye</h3>
+<h3 align="center">
+Exploring electricity, electronics & software from Türkiye
+</h3>
 
+<ul>
+  <li>🌱 Exploring <strong>electricity, electronics, and software</strong>, passionate about <strong>FOSS</strong>, and learning something new every day.</li>
+  <li>💾 All of my projects are available at <a href="https://github.com/AFEGaming">https://github.com/AFEGaming</a></li>
+  <li>📝 I sometimes write a blog at <a href="https://afeblog.github.io/">https://afeblog.github.io/</a></li>
+  <li>⚡ Fun fact <strong>I am not a 27MHz crystal oscillator</strong> 😀</li>
+</ul>
 
-- 🌱  Exploring **electricity, electronics, and software**, passionate about **FOSS**, and learning something new every day.
-  
-- 💾 All of my projects are available at [https://github.com/AFEGaming](https://github.com/AFEGaming)
-  
-- 📝 I Sometimes write blog on [https://afeblog.github.io/](https://afeblog.github.io/)
+<hr>
 
-- ⚡ Fun fact **I am not a 27MHz crystal oscillator** 😀
+<h3 align="center">🌐 Connect with me</h3>
 
----
-<h3 align="center"> 🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://afegaming.github.io/iletisim/">
+    <strong>Contact me &amp; social</strong>
+  </a>
+</p>
 
-**[Contact me & social](https://afegaming.github.io/iletisim/)**
+<h3 align="center">GitHub Stats</h3>
 
-<h3 align="left">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AFEGaming&show_icons=true&theme=tokyonight"
+       alt="AFEGaming GitHub stats" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=AFEGaming&show_icons=true&theme=tokyonight)
-
-![](https://komarev.com/ghpvc/?username=afegaming&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afegaming&style=for-the-badge"
+       alt="Profile views" />
+</p>
