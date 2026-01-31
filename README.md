@@ -8,7 +8,6 @@ Exploring electricity, electronics & software from Türkiye
   <li>🌱 Exploring <strong>electricity, electronics, and software</strong>, passionate about <strong>FOSS</strong>, and learning something new every day.</li>
   <li>💾 All of my projects are available at <a href="https://github.com/AFEGaming">https://github.com/AFEGaming</a></li>
   <li>📝 I sometimes write a blog at <a href="https://afeblog.github.io/">https://afeblog.github.io/</a></li>
-  <li>⚡ Fun fact <strong>I am not a 27MHz crystal oscillator</strong> 😀</li>
 </ul>
 
 <hr>
